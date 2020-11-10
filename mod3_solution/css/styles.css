@@ -1,0 +1,15 @@
+
+.text-box{
+	background-color:#BFBFBF;
+	height: 1000px;
+	padding: 20px;
+}
+
+.navbar{
+	background-color: #C2BFBF;
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a{
+    color: black !important;
+}
+
